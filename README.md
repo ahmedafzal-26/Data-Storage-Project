@@ -1,2 +1,1 @@
-# Data-Storage-Project
-This repository contains the project for Continuous Assessment 1 (CA1) in Data Storage Solutions for the BSc in Computing in IT at CCT College Dublin. It includes dataset acquisition, NoSQL storage, Hadoop processing, benchmarking, and analysis. The repo features source code, queries, dataset, results, and a presentation.
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/7y06qCVD)
